@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "mbo-ga",
+    "slug": "mbo-ga",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "backgroundColor": "#F6F4ED",
+      "resizeMode": "contain"
+    },
+    "ios": { "supportsTablet": true, "bundleIdentifier": "com.mboga.market" },
+    "android": {
+      "package": "com.mboga.market",
+      "adaptiveIcon": { "backgroundColor": "#173F35" },
+      "edgeToEdgeEnabled": true
+    },
+    "web": { "bundler": "metro" }
+  }
+}
